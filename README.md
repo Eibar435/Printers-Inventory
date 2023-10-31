@@ -1,6 +1,11 @@
 # Printers-Inventory
 Bienvenido al Menú de Impresoras! Esta aplicación te permite acceder fácilmente a las impresoras de red a través de un menú intuitivo. A continuación, encontrarás una guía detallada para utilizar la aplicación.
 
+# Descripcion, Anlisis y Solucion.
+Programa en donde se mostraran las impresoras de todos los departamentos de la planta, enfocadas al control de inventarios de TI, esto para monitorear las impresoras observando cuando fueron los últimos mantenimientos, cuanto consumible es lo que queda, cuáles son los diferentes modelos, si necesitan algunas reparaciones de piezas y llevar acabo el control de usuarios registrados en algunas impresoras. El problema principal en la empresa es que no se tiene un control de inventario dedicado de las impresoras, por lo que ocurren algunas fallas y se llaman el proveedor para reemplazar algunas piezas o realizarles mantenimientos o se terminan los tóner de
+algunas impresoras y no se cuentan con ellos, lo cual genera un problema para el usuario y los departamentos, ya que el tiempo de espera al imprimir es tardío y se busca por tratar de imprimir en otro departamento que no sea el suyo, con la finalidad de sacar el
+trabajo adelante.
+
 # Configuración de los requerimientos.
 •	Sistema operativo: Windows 10 (32 bits o 64 bits).
 
